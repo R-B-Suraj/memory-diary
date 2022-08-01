@@ -22,6 +22,13 @@ Redux sate management tool
 </p>
 <br/>
 <br/>
+<p align="center">
+<img src="./home_mobile-min.jpg"
+  alt="home_mobile"
+  width="292" height="530" style="border-style: solid">
+</p>
+<br/>
+<br/>
 
 ### Details page -
 <p align="center">
@@ -29,3 +36,19 @@ Redux sate management tool
   alt="details"
   width="720" height="420" style="border-style: solid">
 </p>
+<br/>
+<br/>
+<p align="center">
+<img src="./details1_mobile-min.jpg"
+  alt="details_mobile"
+  width="292" height="530" style="border-style: solid">
+</p>
+<br/>
+<br/>
+<p align="center">
+<img src="./details2_mobile-min.jpg"
+  alt="details_mobile"
+  width="292" height="530" style="border-style: solid">
+</p>
+<br/>
+<br/>
