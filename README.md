@@ -26,6 +26,6 @@ Redux sate management tool
 ### Details page -
 <p align="center">
 <img src="./details.png"
-  alt="home"
+  alt="details"
   width="720" height="420" style="border-style: solid">
 </p>
